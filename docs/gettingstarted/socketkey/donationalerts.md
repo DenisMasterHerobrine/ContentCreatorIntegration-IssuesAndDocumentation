@@ -12,17 +12,15 @@ Finding your Donation Alerts Key
 
 1. Go to your [DonationAlerts dashboard](https://www.donationalerts.com/dashboard) and then go through your menu and find "General Settings" link after Settings category.
 
-![](../images/socketkey/streamelements/dashboard.png){: class="img_center"}
+![](../images/socketkey/donationalerts/dashboard.png){: class="img_center"}
 <br />
 <br />
 2. Find "Secret token:" and click on "Show token" button. After that you'll get your token mentioning 20 random letters or numbers or whatever you'll see. This token must be seen only to you. 
 
-![](../images/socketkey/streamelements/showsecrets.png){: class="img_center"}
+![](../images/socketkey/donationalerts/settings.png){: class="img_center"}
 <br />
 <br />
 3. After that, go to your game or config file: put it as token for DonationAlerts. That's your DonationAlerts token. If you beware that you entered it somewhere, where it doesn't need - reset it immediately on the same page.
-
-![](../images/socketkey/streamelements/jwttoken.png){: class="img_center"}
 
 | Notice: |
 |--------|
